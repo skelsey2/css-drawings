@@ -1,0 +1,23 @@
+{
+  "name": "moustache-css",
+  "version": "1.0.0",
+  "description": "simple css to create a moustache",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skelsey2/css-drawings.git"
+  },
+  "keywords": [
+    "moustache",
+    "css"
+  ],
+  "author": "Steven Kelsey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skelsey2/css-drawings/issues"
+  },
+  "homepage": "https://github.com/skelsey2/css-drawings#readme"
+}
